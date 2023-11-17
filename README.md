@@ -39,3 +39,5 @@ havendo um espaço específico para o atendimento, respeitando todas as determin
 
  <strong>ENDEREÇO:</strong> Rua Goiás, 320 - Londrina PR, 87021-510
  <br><strong>TELEFONE:</strong> (43) 98450-3020
+
+<em><strong>NOME DO GRUPO:</strong></em> Dienyffer-08 Isabela-16 Ana Beatriz-03 Julia Nogueira-21

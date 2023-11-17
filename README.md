@@ -1,5 +1,10 @@
 <h3>STUDIO BEJU DI ROSA</h3>
 
+![image](https://github.com/sanguesuga/vivi8/assets/142031483/7a0b4aaf-318b-4a0d-b8ae-1dc3b86b4b08)
+
+
+
+
  <em><strong> Sobre nós:</strong></em>
  <p><i> Começamos em 2013 na cidade de Londrina com o intuito de mostrar nosso trabalho para todos, ao longo do tempo
  fomos se espalhando pelo Paraná. oferecemos uma infraestrutura dentro dos padrões exigidos pela
@@ -25,6 +30,9 @@ havendo um espaço específico para o atendimento, respeitando todas as determin
  buscando sempre oferecer maior segurança ao cliente, utilizando materiais descartáveis e técnicas de higiene adequadas para não causar nenhum risco ao cliente. 
    O estúdio de tatuagem Visão Tattoo e seus profissionais possuem o conhecimento e a experiência exigidos para que o
   atendimento seja perfeito, para que o cliente seja atendido dentro daquilo que está procurando e para que esteja satisfeito com os resultados.</i></p>
+
+![image](https://github.com/sanguesuga/vivi8/assets/142031483/c0c8eb0a-f038-4252-ad4b-1efdd702ce1f)
+
 
  <em><strong> Sobre nosso trabalho:</strong></em>
    <p><i>Um dos estilos que se percebe serem mais solicitados no estúdio de tatuagem são as imagens de pessoas, que se diferenciam por haver a necessidade de colocar
